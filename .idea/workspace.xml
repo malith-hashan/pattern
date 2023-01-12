@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3e3be8a-22c8-4c0c-a43f-4a0451f757b5" name="Changes" comment="easy star pattern" />
+    <list default="true" id="b3e3be8a-22c8-4c0c-a43f-4a0451f757b5" name="Changes" comment="new pattern add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -70,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673494708221</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="easy star pattern">
+      <created>1673497492424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673497492424</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new pattern add">
+      <created>1673497606665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673497606665</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,7 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="easy star pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="easy star pattern" />
+    <MESSAGE value="new pattern add" />
+    <option name="LAST_COMMIT_MESSAGE" value="new pattern add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
