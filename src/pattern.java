@@ -10,7 +10,7 @@ public class pattern {
         System.out.println("\n");
         pattern5(9);
         System.out.println("\n");
-
+        patten6(4);
     }
 
     static void pattern1(int n){
@@ -70,6 +70,19 @@ public class pattern {
         }
     }
 
+
+    static void patten6(int n){
+        for (int row=1;row<=n;row++){
+            for(int space=1;space<=n-row;space++){
+                System.out.print("@");
+            }
+            for (int col=1;col<=row;col++){
+                System.out.print("* ");
+            }
+            System.out.println("");
+        }
+
+    }
 
 
 }
